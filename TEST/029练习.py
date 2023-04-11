@@ -1,4 +1,3 @@
-
 try:
     score = int(input("输入分数："))
     if score <= 100:
